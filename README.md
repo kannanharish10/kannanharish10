@@ -73,6 +73,10 @@ Projects focused on exploration, visualization, and predictive modeling, with em
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kannanharish10&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
 
+<p align="center">
+  <em>Activity and contribution trends stay visible here without relying on the broken legacy endpoint.</em>
+</p>
+
 ## 🌐 Connect With Me
 
 - GitHub: [kannanharish10](https://github.com/kannanharish10)
