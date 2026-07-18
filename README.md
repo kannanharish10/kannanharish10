@@ -8,7 +8,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;ML+Enthusiast;Data+Science+Builder;Problem+Solver" alt="Typing SVG" />
 </p>
 
-A passionate developer crafting data-driven products, machine learning solutions, and polished web experiences with a strong focus on real-world impact.
+<p align="center">
+  <strong>Building immersive data solutions, intelligent dashboards, and polished products with a futuristic developer vibe.</strong>
+</p>
+
+## 🌌 3D Portfolio Vision
+
+Imagine a futuristic GitHub universe where each project floats like a glowing orb, linked by light trails of innovation, creativity, and impact.
+
+- 🪐 Each repository feels like a planet of ideas
+- ✨ Commit activity glows like a galaxy trail
+- 📊 Skills appear like constellations of capability
+- 🚀 Every project is a launchpad into real-world impact
 
 ## ✨ About Me
 
@@ -41,7 +52,7 @@ A passionate developer crafting data-driven products, machine learning solutions
 ## 🏆 Featured Projects
 
 ### 🌊 Water Quality Prediction Dashboard
-A complete machine learning project that predicts water safety and presents insights through an interactive Streamlit dashboard.
+A complete machine learning project that predicts water safety and presents key insights through an interactive Streamlit dashboard.
 
 - Python
 - Random Forest
