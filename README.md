@@ -66,7 +66,11 @@ Projects focused on exploration, visualization, and predictive modeling, with em
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannanharish10&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kannanharish10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Contribution Overview" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kannanharish10&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
 
 ## 🌐 Connect With Me
