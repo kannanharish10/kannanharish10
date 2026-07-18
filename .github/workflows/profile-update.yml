@@ -1,0 +1,29 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const readme = path.join(process.cwd(), 'README.md');
+            const content = fs.readFileSync(readme, 'utf8');
+            fs.writeFileSync(readme, content);
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "chore: refresh profile README"
+      - name: Push changes
+        run: git push
