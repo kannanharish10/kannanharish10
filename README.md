@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Kannan Harish
 
-A passionate developer crafting data-driven products, machine learning solutions, and polished web experiences with a focus on real-world impact.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:0ea5e9&text=Kannan%20Harish&fontColor=ffffff&fontSize=45&height=180&animation=twinkling" alt="Profile Banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;ML+Enthusiast;Data+Science+Builder;Problem+Solver" alt="Typing SVG" />
 </p>
+
+A passionate developer crafting data-driven products, machine learning solutions, and polished web experiences with a strong focus on real-world impact.
 
 ## ✨ About Me
 
@@ -15,16 +19,11 @@ A passionate developer crafting data-driven products, machine learning solutions
 
 ## 🧰 Tech Stack
 
-### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & Frameworks
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -35,10 +34,14 @@ A passionate developer crafting data-driven products, machine learning solutions
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanharish10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kannanharish10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ## 🏆 Featured Projects
 
 ### 🌊 Water Quality Prediction Dashboard
-A complete machine learning project that predicts water safety and presents key insights through an interactive Streamlit dashboard.
+A complete machine learning project that predicts water safety and presents insights through an interactive Streamlit dashboard.
 
 - Python
 - Random Forest
@@ -52,7 +55,7 @@ Projects focused on exploration, visualization, and predictive modeling, with em
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbmj/animated-github-contribution-grid/master/svg/black.svg?palette=github-dark" alt="Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kannanharish10&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 🌐 Connect With Me
