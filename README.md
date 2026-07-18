@@ -1,15 +1,19 @@
 # 👋 Hi, I'm Kannan Harish
 
-A passionate developer building impactful data science, machine learning, and full-stack projects with a strong focus on real-world problem solving.
+A passionate developer crafting data-driven products, machine learning solutions, and polished web experiences with a focus on real-world impact.
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Python+Developer;ML+Enthusiast;Data+Science+Builder;Problem+Solver" alt="Typing SVG" />
+</p>
 
-- 💡 I enjoy turning ideas into practical applications
+## ✨ About Me
+
+- 💡 I enjoy turning ideas into practical, useful applications
 - 📊 I work with Python, machine learning, dashboards, and data pipelines
-- 🛠️ I love building projects that are both useful and visually polished
+- 🛠️ I love building projects that are both technically solid and visually polished
 - 🌐 I am continuously improving my skills in software engineering and AI
 
-## 🧠 Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -24,16 +28,17 @@ A passionate developer building impactful data science, machine learning, and fu
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![Kannan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannanharish10&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannanharish10&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kannanharish10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannanharish10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</p>
 
 ## 🏆 Featured Projects
 
 ### 🌊 Water Quality Prediction Dashboard
-A complete machine learning project that predicts water safety and presents insights through an interactive Streamlit dashboard.
+A complete machine learning project that predicts water safety and presents key insights through an interactive Streamlit dashboard.
 
 - Python
 - Random Forest
@@ -42,19 +47,21 @@ A complete machine learning project that predicts water safety and presents insi
 - Pandas
 
 ### 📈 Data Science & Analytics Projects
-Projects focused on data cleaning, exploration, visualization, and predictive modeling.
+Projects focused on exploration, visualization, and predictive modeling, with emphasis on clarity and real-world usefulness.
 
 ## 🔥 Contribution Activity
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/andreasbmj/animated-github-contribution-grid/master/svg/black.svg?palette=github-dark)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbmj/animated-github-contribution-grid/master/svg/black.svg?palette=github-dark" alt="Contribution Snake" />
+</p>
 
-## 📌 Connect With Me
+## 🌐 Connect With Me
 
 - GitHub: [kannanharish10](https://github.com/kannanharish10)
-- LinkedIn: [Add your link](https://linkedin.com)
+- LinkedIn: [Add your profile](https://linkedin.com)
 - Email: [your-email@example.com](mailto:your-email@example.com)
 
-## ✨ Profile Goals
+## ✨ Goals
 
 - Build more polished, production-ready applications
 - Share meaningful projects and learning experiences
